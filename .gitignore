@@ -1,0 +1,10 @@
+*.bz2
+*.zip
+*.swp
+notebooks/*.swp
+__pycache__/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/__pycache__/
+.idea/
+.DS_Store
